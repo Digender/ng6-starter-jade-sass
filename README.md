@@ -1,6 +1,9 @@
-<h1>This is the same as the ng6 starter but with sass support instead of stylus and the optional support for jade instead of html</h1>
-<h3>In your directive/component files just import .jade files as your template and import your .sass file</h3>
+<h1 align="center"> NG6 Starter w/ jade & sass</h1>
 
+<h2>This is the same as the ng6 starter but with sass support instead of stylus and the optional support for jade instead of html</h1>
+<h4>In your directive/component files just import .jade files as your template and import your .sass file</h3>
+<h4>-Matt</h4>
+<hr>
 <p align="center">
   <a href="https://angularclass.com" target="_blank">
     <img src="https://cloud.githubusercontent.com/assets/1016365/9864650/93a5660a-5b00-11e5-8716-a0d538d12913.png" alt="ng6-starter" width="480px;" >
